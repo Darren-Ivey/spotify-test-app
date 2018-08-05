@@ -1,0 +1,39 @@
+
+.App {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #191c31;
+    max-width: 600px;
+}
+
+.header {
+    padding: 20px 16px;
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+}
+
+.header__button {
+    background-color: darkslategrey;
+    color: #f7f7f7;
+    border: none;
+    border-radius: 3px;
+    padding: 1px 7px 2px;
+    line-height: 20px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.header__button:hover {
+    opacity: 0.8;
+}
+
+.header__title {
+    color: #f7f7f7;
+    font-weight: 300;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

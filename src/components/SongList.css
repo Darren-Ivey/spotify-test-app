@@ -1,0 +1,10 @@
+
+.new-release-list {
+    padding: 0;
+}
+
+.new-release-list__item {
+    list-style: none;
+    font-size: 14px;
+    text-transform: capitalize;
+}

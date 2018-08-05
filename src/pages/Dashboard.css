@@ -1,0 +1,19 @@
+
+.dashboard {
+    padding: 20px 16px;
+}
+
+.dashboard__button {
+    background-color: grey;
+    color: #f7f7f7;
+    border: none;
+    border-radius: 3px;
+    padding: 1px 7px 2px;
+    line-height: 20px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.dashboard__button:hover {
+    opacity: 0.8;
+}
